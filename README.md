@@ -1,5 +1,3 @@
-# An Adapted Cat and Mouse Based Optimizer for solving the CVRP problem 
-
 # Adapted Cat and Mouse Based Optimizer (ACMBO) for Capacitated Vehicle Routing Problem (CVRP)
 
 This repository contains the implementation of the **Adapted Cat and Mouse Based Optimizer (ACMBO)** algorithm, a metaheuristic designed to efficiently solve the **Capacitated Vehicle Routing Problem (CVRP)**. The CVRP is a classic combinatorial optimization problem in logistics, aiming to find the most cost-effective routes for a fleet of vehicles to deliver goods to customers, while adhering to vehicle capacity constraints.
@@ -38,6 +36,3 @@ Future enhancements and applications of ACMBO include:
 * **Solving VRP Variants:** Adapting ACMBO to address other variations of the Vehicle Routing Problem, such as Electric VRP, VRP with time-windows, and multiple-depot VRP.
 * **Real-world Applications:** Validating ACMBO's practical applicability by optimizing routes for e-commerce services with real-time data and dynamic constraints.
 
-## Installation and Usage
-
-*(This section is a placeholder. Replace with actual instructions for setting up and running your code. Here's a common structure you might use, assuming Python.)*
