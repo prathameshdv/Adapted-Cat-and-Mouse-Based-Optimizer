@@ -28,10 +28,15 @@ ACMBO was rigorously tested on 35 benchmark instances from CVRPLIB and compared 
 
 These results highlight ACMBO's robustness, precision, and consistency, making it a highly competitive approach for solving complex CVRP challenges.
 
+Few of the results obtained by the ACMBO algorithm-
+
+E-n51-k5
+
 ![Results](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/E-51.png?raw=true)
 
+Tai150b Test Case-
 
-![Results}(https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/1500.png?raw=true)
+![Results](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/1500.png?raw=true)
 
 ## Future Work
 
