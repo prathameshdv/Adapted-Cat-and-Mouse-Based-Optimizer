@@ -27,6 +27,7 @@ ACMBO was rigorously tested on 35 benchmark instances from CVRPLIB and compared 
 * **Scalability:** Demonstrated effectiveness across a wide range of problem scales, from small (16 customers) to large (150 customers) instances.
 
 These results highlight ACMBO's robustness, precision, and consistency, making it a highly competitive approach for solving complex CVRP challenges.
+![Results](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/1500.png?raw=true)
 
 ## Future Work
 
