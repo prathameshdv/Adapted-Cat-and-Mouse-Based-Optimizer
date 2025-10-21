@@ -2,7 +2,7 @@
 
 This repository presents the **Adapted Cat and Mouse Based Optimizer (ACMBO)** algorithm, a metaheuristic designed to efficiently solve the **Capacitated Vehicle Routing Problem (CVRP)**. Our work on ACMBO has been accepted for presentation at the IEEE International Conference of Optimization and Algorithms (ICOA) 2025 in Kenitra, Morocco  (https://www.icoa-conf.org/).
 
-Link to Paper- [![Paper](https://img.shields.io/badge/View%20Certificate-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/ICOA2025_ID214(1).pdf)
+Link to Paper- [![Paper](https://img.shields.io/badge/View%20Certificate-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Documents/ICOA2025_ID214%20(1).pdf)
 
 Conference Certificate - 
 [![ICOA2025 Certificate](https://img.shields.io/badge/View%20Certificate-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/ICOA2025_Certificate_ID214.pdf)
