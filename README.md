@@ -37,15 +37,15 @@ These results highlight ACMBO's robustness, precision, and consistency, making i
 
 Few of the results obtained by the ACMBO algorithm for Test Cases in CVRPLIB-
 
-###B-n38-k6
+### B-n38-k6
 
 ![Results](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/b38(1).png?raw=true)
 
-###E-n51-k5
+### E-n51-k5
 
 ![Results](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/E-51.png?raw=true)
 
-####Tai150b-
+### Tai150b-
 
 ![Results](https://github.com/prathameshdv/Adapted-Cat-and-Mouse-Based-Optimizer/blob/main/Results/1500.png?raw=true)
 
